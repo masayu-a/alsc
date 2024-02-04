@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: E3P Linguistics Center Web Pages
+title: E3P-Linguistics Center Web Pages
 author:
   name: Masayuki Asahara
   email: masayu-a@ninjal.ac.jp
