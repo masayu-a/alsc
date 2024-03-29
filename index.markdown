@@ -30,4 +30,4 @@ The National Institute for Japanese Language and Linguistics (NINJAL) will estab
 
 - 2024/01/29 新センターのウェブサイトを開設しました
 - 2024/02/19 [公募情報(JREC-IN)](https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D124021167), [公募情報(国立国語研究所)](https://www.ninjal.ac.jp/info/jobs/)
-  - [ほしい人材について](hr.html) 
+  - [ほしい人材について](hr.markdown) 
