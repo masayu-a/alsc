@@ -3,10 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: hr
+title: 欲しい人材について
 ---
-# 欲しい人材について
-
 ## 基本的なことについて
 
 - 日本国内法および研究所の規程を守れる方
