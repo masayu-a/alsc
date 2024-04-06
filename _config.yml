@@ -23,7 +23,7 @@ author:
   name: Masayuki Asahara
   email: masayu-a@ninjal.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  国立国語研究所 E3P-Linguistics Center Web Pages
+  国立国語研究所 E3P 言語モデリング研究センター Web Pages
 baseurl: "/e3plc" # the subpath of your site, e.g. /blog
 url: "https://masayu-a.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
