@@ -5,13 +5,13 @@
 layout: home
 title: Index
 ---
-# NINJAL Center for Language Modelling
+# NINJAL Advanced Language Science (E3P) Research Center
 
-国立国語研究所は令和6年度に新センター「E3P言語モデリング研究センター」(Center for Language Modelling) を設置します。
+国立国語研究所は令和6年度に新センター「次世代言語科学研究センター」(Advanced Language Science (E3P) Research Center) を設置します。
 
-The National Institute for Japanese Language and Linguistics (NINJAL) will establish a new center called the "Center for Language Modelling" in the fiscal year 2024.
+The National Institute for Japanese Language and Linguistics (NINJAL) will establish a new center called the "Advanced Language Science (E3P) Research Center" in the fiscal year 2024.
 
-## センターについて (About Center for Language Modelling)
+## センターについて (About Advanced Language Science (E3P) Research Center)
 
 本センターは、最新の統計モデリング技術（ベイズ統計・深層学習など）を用い、
 実証的な言語研究（音声科学・認知科学・コーパス・言語理論）を推進します。
