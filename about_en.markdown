@@ -10,3 +10,4 @@ Specifically, we will advance the following six initiatives:
 4. Establishment of statistical analysis methods for large-scale language resources based on Bayesian statistics and deep learning, and development of language modeling techniques using machine learning.
 5. Shared use of experimental equipment, high-performance computing servers for statistical analysis, and open data.
 6. Organization of hands-on seminars to disseminate scientific analysis methods of language and to foster the next generation of language researchers.
+
