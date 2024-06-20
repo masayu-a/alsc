@@ -5,7 +5,7 @@
 layout: home
 title: Index
 ---
-![Logo](img/24_alsc-logo-E3P-ninjallogo-ja.png)
+![Logo](img/24_alsclogo-E3P-ninjallogo-ja.png)
 
 # NINJAL Advanced Language Science (E3P) Research Center
 
