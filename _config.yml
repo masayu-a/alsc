@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Center for Language Modelling Web Pages
+title: NINJAL Advanced Language Science (E3P) Research Center
 author:
   name: Masayuki Asahara
   email: masayu-a@ninjal.ac.jp

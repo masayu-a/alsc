@@ -5,9 +5,8 @@
 layout: home
 title: Index
 ---
-![Logo](img/24_alsclogo-E3P-ninjallogo-ja.png)
 
-# NINJAL Advanced Language Science (E3P) Research Center
+![Logo](img/24_alsclogo-E3P-ninjallogo-ja.png)
 
 国立国語研究所は令和6年度に新センター「次世代言語科学研究センター」(Advanced Language Science (E3P) Research Center) を設置します。
 
