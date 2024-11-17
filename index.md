@@ -1,11 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-title: Index
----
-
 # 国立国語研究所は令和6年度に新センター「次世代言語科学研究センター」(Advanced Language Science (E3P) Research Center) を設置します。
 
 # The National Institute for Japanese Language and Linguistics (NINJAL) will establish a new center called the "Advanced Language Science (E3P) Research Center" in the fiscal year 2024.

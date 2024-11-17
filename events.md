@@ -1,13 +1,4 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-title: Index
----
 # NINJAL Advanced Language Science (E3P) Research Center: Event
-
-![Logo](img/24_alsc-logo-ninjallogo-ja.png)
 
 次世代言語科学研究センター 研究会
 
