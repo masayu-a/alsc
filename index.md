@@ -13,7 +13,9 @@
 ### お知らせ (News)
 
 - 2025/01/01 メンバー情報を更新しました
+  - Member information has been updated.
 - 2025/01/01 開所式・第1回研究会の参加募集を開始しました
+  - Participation for the Opening Ceremony and the First Workshop is now open.
 - 2024/06/20 新センターのロゴを作成しました [url](https://github.com/masayu-a/alsc/tree/logo)
   - The logo for the new center has been created. [url](https://github.com/masayu-a/alsc/tree/logo)
 - 2024/02/19 公募情報(JREC-IN)を出しました
