@@ -1,4 +1,4 @@
-# NINJAL Advanced Language Science (E3P) Research Center
+# Papers
 
 ## 2024年度
 
@@ -26,3 +26,9 @@ Shaped for Efficient Communication?: A Case Study on Coordination", Proceedings 
 - Natsumi Funasaki, Masataka Yano (2024) "Role of prosody and word order in identifying focus: evidence from pupillometry", Language, Cognition, and Neurosicence, pp.1--18. [doi](https://doi.org/10.1080/23273798.2024.2396962)
 
 - Masataka Yano, Keiyu Niikuni, Ruri Shimura, Natsumi Funasaki, Masatoshi oizumi (2024), "Producing non-basic word orders in (in)felicitous contexts: evidence from pupillometry and functional near-infrared spectroscopy (fNIRS)",  Language, Cognition and Neuroscience, pp. 1--22. [doi](https://doi.org/10.1080/23273798.2024.2404178)
+
+# Collaborative Researches
+
+## 2023年度以前
+
+## 2024年度
