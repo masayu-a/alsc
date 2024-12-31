@@ -1,5 +1,3 @@
-# 次世代言語科学研究センター(Advanced Language Science (E3P) Research Center) 
-
 - [センターについて](about_ja.html) / [About the Center](about_en.html)
 
 - [研究業績/Achievements](achievements.html)
