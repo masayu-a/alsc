@@ -1,4 +1,4 @@
-# Achievements / 研究業績
+# 研究業績 / Achievements
 
 ## Papers
 
