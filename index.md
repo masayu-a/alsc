@@ -2,9 +2,13 @@
 
 - [センターについて](about_ja.html) / [About the Center](about_en.html)
 
+- [メンバー/Members](members.html)
+
 - [研究業績/Achievements](achievements.html)
 
 - [イベント/Events](events.html)
+
+- [セミナー/Seminars](seminars.html)
 
 ### お知らせ (News)
 
