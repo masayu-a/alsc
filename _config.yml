@@ -69,3 +69,10 @@ minima:
   social_links:
     twitter: masayu_a
     github:  masayu-a
+
+sass:
+  style: compressed
+
+assets:
+  stylesheets:
+    - "/assets/css/custom.css"
