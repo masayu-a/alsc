@@ -28,6 +28,8 @@
 
 いただいた個人情報は、個人情報保護ポリシーに則り厳正に取り扱います。
 
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=WgYfnQMt70Gf98AUO1nLLPyPBnQwtVBLgF-I9E_gZi5UMVI1QlUzU1pYUTlBSUZFOTFMSlJFRzBLTi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
 
 ### 過去のハンズオンセミナー
 
