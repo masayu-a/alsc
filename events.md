@@ -1,5 +1,7 @@
 ## 次世代言語科学研究センター 研究会 / Advanced Language Science (E3P) Research Center Research Meeting
 
+![E3P EVENT 20250303](e3p-event-20250303.jpg)
+
 ### 2024年度: 次世代言語科学研究センター開所式及び第1回研究会
 
 - 日時： 2025年3月3日 (月) 13:00-17:00
