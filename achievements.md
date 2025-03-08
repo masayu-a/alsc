@@ -52,7 +52,7 @@ Shaped for Efficient Communication?: A Case Study on Coordination", Proceedings 
 
 - 浅原 正幸・金山 博・宮尾 祐介・田中 貴秋・大村 舞・村脇 有吾・松本 裕治 「Universal Dependencies 日本語コーパス」 **言語処理学会30周年記念論文賞**, 言語処理学会 (2024. 10)
 
--　Masayuki Asahara,　**Outstanding Senior Area Chairs**: The 2024 Conference on Empirical Methods in Natural Language Processing, Association for Computational Linguistics (2024. 11)
+- Masayuki Asahara,　**Outstanding Senior Area Chairs**: The 2024 Conference on Empirical Methods in Natural Language Processing, Association for Computational Linguistics (2024. 11)
 
 - Kohei Kajikawa, Yusuke Kubota and Yohei Oseki (2024), "Is Structure Dependence
 Shaped for Efficient Communication?: A Case Study on Coordination", Proceedings of the 28th Conference on Computational Natural Language Learning, pp.291-302.
