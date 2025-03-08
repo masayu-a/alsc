@@ -30,7 +30,7 @@ https://aclanthology.org/2024.splurobonlp-1.3/)
 
 - Natsumi Funasaki, Masataka Yano (2024), "Role of prosody and word order in identifying focus: evidence from pupillometry", Language, Cognition, and Neurosicence, pp.1--18. [【doi】](https://doi.org/10.1080/23273798.2024.2396962)
 
-- 川端 良子・大村 舞・浅原 正幸・竹内 誉羽 (2024), 「Double Cross Model に基づく相対位置情報アノテーション」『自然言語処理』31巻3号 p.1356-1375. [【doi】](https://doi.org/10.5715/jnlp.31.1356) [【bib」](https://www.jstage.jst.go.jp/AF06S010ShoshJkuDld?sryCd=jnlp&noVol=31&noIssue=3&kijiCd=31_1356&kijiLangKrke=ja&kijiToolIdHkwtsh=AT0073&request_locale=JA)
+- 川端 良子・大村 舞・浅原 正幸・竹内 誉羽 (2024), 「Double Cross Model に基づく相対位置情報アノテーション」『自然言語処理』31巻3号 p.1356-1375. [【doi】](https://doi.org/10.5715/jnlp.31.1356) [【bib】](https://www.jstage.jst.go.jp/AF06S010ShoshJkuDld?sryCd=jnlp&noVol=31&noIssue=3&kijiCd=31_1356&kijiLangKrke=ja&kijiToolIdHkwtsh=AT0073&request_locale=JA)
 
 - Masataka Yano, Keiyu Niikuni, Ruri Shimura, Natsumi Funasaki, Masatoshi oizumi (2024), "Producing non-basic word orders in (in)felicitous contexts: evidence from pupillometry and functional near-infrared spectroscopy (fNIRS)",  Language, Cognition and Neuroscience, pp. 1--22. [【doi】](https://doi.org/10.1080/23273798.2024.2404178)
 
