@@ -18,5 +18,4 @@
   https://www.tama-monorail.co.jp/monorail/station/takamatsu/timetable.html
 
 ### タクシー
-- https://www.navitime.co.jp/taxi/result/?start=%7B%22name%22%3A%22%E7%AB%8B%E5%B7%9D%E9%A7%85%E5%8C%97%E5%8F%A3%22%2C%22lon%22%3A%22501890163%22%2C%22road-type%22%3A%22default%22%2C%22lat%22%3A%22128517224%22%7D&goal=%7B%22name%22%3A%22%E8%87%AA%E6%B2%BB%E5%A4%A7%E5%AD%A6%E6%A0%A1%E3%83%BB%E5%9B%BD%E7%AB%8B%E5%9B%BD%E8%AA%9E%E7%A0%94%E7%A9%B6%E6%89%80%22%2C%22lon%22%3A%22501880169%22%2C%22road-type%22%3A%22default%22%2C%22lat%22%3A%22128557217%22%7D
-- 
+- [立川駅北口から自治大学校・国立国語研究所までのタクシー料金](https://www.navitime.co.jp/taxi/result/?start=%7B%22name%22%3A%22%E7%AB%8B%E5%B7%9D%E9%A7%85%E5%8C%97%E5%8F%A3%22%2C%22lon%22%3A%22501890163%22%2C%22road-type%22%3A%22default%22%2C%22lat%22%3A%22128517224%22%7D&goal=%7B%22name%22%3A%22%E8%87%AA%E6%B2%BB%E5%A4%A7%E5%AD%A6%E6%A0%A1%E3%83%BB%E5%9B%BD%E7%AB%8B%E5%9B%BD%E8%AA%9E%E7%A0%94%E7%A9%B6%E6%89%80%22%2C%22lon%22%3A%22501880169%22%2C%22road-type%22%3A%22default%22%2C%22lat%22%3A%22128557217%22%7D) 　正門までだともう少しかかります
