@@ -59,10 +59,7 @@ Shaped for Efficient Communication?: A Case Study on Coordination", Proceedings 
 [url](https://aclanthology.org/2024.conll-1.23/) **Best Paper Award** (2024. 12)
 
 
-
-# Collaborative Researches
-
-## 2024年度
+### Collaborative Researches
 
 - 【共同利用型(B)】	大規模言語モデルによる日本語古典語の生成	近藤 泰弘 (青山学院大学)
 
@@ -84,7 +81,9 @@ Shaped for Efficient Communication?: A Case Study on Coordination", Proceedings 
 
 - 【企業】NTTコミュニケーション科学基礎研究所　（～2025年3月）
 
-## 2023年度以前
+## 2023年度以前より継続のもの
+
+### Collaborative Researches
 
 - 【共同利用型(C)】	係り受け情報を用いた日本語母語話者の情報処理過程解明のための基礎的研究	庵 功雄（一橋大学）（～2025年3月）
 
