@@ -30,8 +30,13 @@
 
 <iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=WgYfnQMt70Gf98AUO1nLLPyPBnQwtVBLgF-I9E_gZi5UMVI1QlUzU1pYUTlBSUZFOTFMSlJFRzBLTi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
+### 今後予定しているのハンズオンセミナー
+
+- 音声生成に関する計測技術ハンズオンセミナー
+- 言語研究のための脳波トレーニングコース
+- Universal Dependencies セミナー (2025.09.20)
 
 ### 過去のハンズオンセミナー
 
-- [2024年度第1回ハンズオンセミナー](seminars-2024a.html)
+- [2024年度第1回ハンズオンセミナー（音声生成に関する計測技術ハンズオンセミナー）](seminars-2024a.html)
 
