@@ -1,36 +1,68 @@
 # 研究業績 / Achievements
 
-## Papers
+## 2025年度
 
-### 2024年度
+### Papers
 
-- Hiroaki Ozaki, Kanako Komiya, Masayuki Asahara, Toshinobu Ogiso (2024) "Long Unit Word Tokenization and Bunsetsu Segmentation of Historical Japanese, Proceedings of the 1st Workshop on Machine Learning for Ancient Languages (ML4AL 2024), pp. 48--55. [url](https://aclanthology.org/2024.ml4al-1.6/)
+- Hiroyuki Deguchi, Go Kamoda, Yusuke Matsushita, Chihiro Taguchi, Kohei Suenaga, Masaki Waga, Sho Yokoi (2025), "A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searche", The Thirteenth International Conference on Learning Representations (ICLR 2025), (To Appear)
 
-- Lis Pereira, Fei Cheng, Wan Jou She, Masayuki Asahara, Ichiro Kobayashi (2024) "Prior Knowledge-Guided Adversarial Training", Proceedings of the 9th Workshop on Representation Learning for NLP (RepL4NLP-2024), pp. 51-57. [url](https://aclanthology.org/2024.repl4nlp-1.5/)
+- Makoto Shing, Kou Misaki, Han Bao, Sho Yokoi, Takuya Akiba (2025), "TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models",  The Thirteenth International Conference on Learning Representations (ICLR 2025), (To Appear)
 
-- Yoshiko Kawabata, Mai Omura, Hikari Konishi, Masayuki Asahara, Johane Takeuchi (2024) "Collection of Japanese Route Information Reference Expressions Using Maps as Stimuli", Proceedings of the 4th Workshop on Spatial Language Understanding and Grounded Communication for Robotics (SpLU-RoboNLP 2024), pp. 30-35. [url](
+- Kanako Komiya, Soma Asada, Masayuki Asahara (2025), "Automatic Tagging of Word Senses for a Large-Scale Historical Japanese Corpus", Digital Humanities Conference 2025 (DH 2025), (To Appear)
+
+- 浅原 正幸 (2025) 「Bayesian Linear Mixed Model に基づく漢字親密度推定の試みーー言語資源としての統計モデルの検討」, 『日本語・日本学研究』東京外国語大学国際日本研究センター
+
+
+## 2024年度
+
+### Books
+
+- 呉 軍 著・持橋 大地 監訳・井上 朋也 訳　(2024), 「数学の美」東京化学同人　[url](https://www.tkd-pbl.com/book/b10095150.html)
+
+### Papers
+
+- Hiroaki Ozaki, Kanako Komiya, Masayuki Asahara, Toshinobu Ogiso (2024), "Long Unit Word Tokenization and Bunsetsu Segmentation of Historical Japanese, Proceedings of the 1st Workshop on Machine Learning for Ancient Languages (ML4AL 2024), pp. 48-55. [url](https://aclanthology.org/2024.ml4al-1.6/)
+
+- Lis Pereira, Fei Cheng, Wan Jou She, Masayuki Asahara, Ichiro Kobayashi (2024), "Prior Knowledge-Guided Adversarial Training", Proceedings of the 9th Workshop on Representation Learning for NLP (RepL4NLP-2024), pp. 51-57. [url](https://aclanthology.org/2024.repl4nlp-1.5/)
+
+- Yoshiko Kawabata, Mai Omura, Hikari Konishi, Masayuki Asahara, Johane Takeuchi (2024), "Collection of Japanese Route Information Reference Expressions Using Maps as Stimuli", Proceedings of the 4th Workshop on Spatial Language Understanding and Grounded Communication for Robotics (SpLU-RoboNLP 2024), pp. 30-35. [url](
 https://aclanthology.org/2024.splurobonlp-1.3/)
 
-- 川端 良子・大村 舞・浅原 正幸・竹内 誉羽 (2024) 「Double Cross Model に基づく相対位置情報アノテーション」『自然言語処理』31巻3号 p.1356-1375. [doi](https://doi.org/10.5715/jnlp.31.1356) [bib](https://www.jstage.jst.go.jp/AF06S010ShoshJkuDld?sryCd=jnlp&noVol=31&noIssue=3&kijiCd=31_1356&kijiLangKrke=ja&kijiToolIdHkwtsh=AT0073&request_locale=JA)
+- Natsumi Funasaki, Masataka Yano (2024), "Role of prosody and word order in identifying focus: evidence from pupillometry", Language, Cognition, and Neurosicence, pp.1--18. [doi](https://doi.org/10.1080/23273798.2024.2396962)
 
-- Kohei Kajikawa, Yusuke Kubota and Yohei Oseki (2024) "Is Structure Dependence
-Shaped for Efficient Communication?: A Case Study on Coordination", Proceedings of the 28th Conference on Computational Natural Language Learning, pp.291-302.
-[url](https://aclanthology.org/2024.conll-1.23/) Best Paper Award
-
-- Sachi Kato, Masayuki Asahara (2024) "Assigning Impression Rating Information to the `Balanced Corpus of Contemporary Written Japanese'", Proceedings of PACLIC 38, (To Appear)
-	
-- 大村 舞・若狭 絢・松田 寛・浅原 正幸 (2025)「日本語日常会話コーパスのUniversal Dependencies: UD_Japanese-CEJC」『自然言語処理』32巻1号 (To Appear)
-
-- Natsumi Funasaki, Masataka Yano (2024) "Role of prosody and word order in identifying focus: evidence from pupillometry", Language, Cognition, and Neurosicence, pp.1--18. [doi](https://doi.org/10.1080/23273798.2024.2396962)
+- 川端 良子・大村 舞・浅原 正幸・竹内 誉羽 (2024), 「Double Cross Model に基づく相対位置情報アノテーション」『自然言語処理』31巻3号 p.1356-1375. [doi](https://doi.org/10.5715/jnlp.31.1356) [bib](https://www.jstage.jst.go.jp/AF06S010ShoshJkuDld?sryCd=jnlp&noVol=31&noIssue=3&kijiCd=31_1356&kijiLangKrke=ja&kijiToolIdHkwtsh=AT0073&request_locale=JA)
 
 - Masataka Yano, Keiyu Niikuni, Ruri Shimura, Natsumi Funasaki, Masatoshi oizumi (2024), "Producing non-basic word orders in (in)felicitous contexts: evidence from pupillometry and functional near-infrared spectroscopy (fNIRS)",  Language, Cognition and Neuroscience, pp. 1--22. [doi](https://doi.org/10.1080/23273798.2024.2404178)
 
-- 呉　軍 著・持橋　大地 監訳・井上　朋也 訳　(2024) 「数学の美」東京化学同人　[url](https://www.tkd-pbl.com/book/b10095150.html)
+- Murakami, Risa and Masataka Yano (2024), "The role of prosodic phrasing in silent reading", Glossa Psycholinguistics, vol. 3, No. 1, pp.1-15. [doi](https://doi.org/10.5070/G601135279)
+
+- Kohei Kajikawa, Yusuke Kubota and Yohei Oseki (2024), "Is Structure Dependence
+Shaped for Efficient Communication?: A Case Study on Coordination", Proceedings of the 28th Conference on Computational Natural Language Learning, pp.291-302.
+[url](https://aclanthology.org/2024.conll-1.23/) **Best Paper Award**
+
+- Sachi Kato, Masayuki Asahara (2024), "Assigning Impression Rating Information to the `Balanced Corpus of Contemporary Written Japanese'", Proceedings of PACLIC 38.
+
+- Jeong, Hyeonjeong, Jungho Kim, Masataka Yano, Haining Cui, Sachiko Kiayama, and Masatoshi Koizumi (2025), "The crucial role of the left inferior frontal gyrus (BA44) in synergizing syntactic structure and information structure during sentence comprehension", Brain and Language, (262) [doi](https://doi.org/10.1016/j.bandl.2025.105533)
+
+- Hajime Kiyama, Taichi Aida, Mamoru Komachi, Toshinobu Ogiso, Hiroya Takamura, Daichi Mochihashi (2025), "Analyzing Continuous Semantic Shifts with Diachronic Word Similarity Matrices", Proceedings of the 31st International Conference on Computational Linguistics, pp. 1613-1631. [url](https://aclanthology.org/2025.coling-main.109/)
+
+- 大村 舞・若狭 絢・松田 寛・浅原 正幸 (2025)「日本語日常会話コーパスのUniversal Dependencies: UD_Japanese-CEJC」『自然言語処理』32巻1号
+
+### Awards
+
+- 浅原 正幸・金山 博・宮尾 祐介・田中 貴秋・大村 舞・村脇 有吾・松本 裕治 「Universal Dependencies 日本語コーパス」 **言語処理学会30周年記念論文賞**, 言語処理学会 (2024. 10)
+
+-　Masayuki Asahara,　**Outstanding Senior Area Chairs**: The 2024 Conference on Empirical Methods in Natural Language Processing, Association for Computational Linguistics (2024. 11)
+
+- Kohei Kajikawa, Yusuke Kubota and Yohei Oseki (2024), "Is Structure Dependence
+Shaped for Efficient Communication?: A Case Study on Coordination", Proceedings of the 28th Conference on Computational Natural Language Learning, pp.291-302.
+[url](https://aclanthology.org/2024.conll-1.23/) **Best Paper Award** (2024. 12)
 
 
-## Collaborative Researches
 
-### 2024年度
+# Collaborative Researches
+
+## 2024年度
 
 - 【共同利用型(B)】	大規模言語モデルによる日本語古典語の生成	近藤 泰弘 (青山学院大学)
 
@@ -46,13 +78,13 @@ Shaped for Efficient Communication?: A Case Study on Coordination", Proceedings 
 
 - 【他大学】 東北大学 言語AI研究センター
 
-- 【企業】SB Intuitions 株式会社
+- 【企業】SB Intuitions 株式会社 （～2025年3月）
 
 - 【企業】株式会社 ホンダ・リサーチ・インスティチュート・ジャパン　（～2025年3月）
 
 - 【企業】NTTコミュニケーション科学基礎研究所　（～2025年3月）
 
-### 2023年度以前
+## 2023年度以前
 
 - 【共同利用型(C)】	係り受け情報を用いた日本語母語話者の情報処理過程解明のための基礎的研究	庵 功雄（一橋大学）（～2025年3月）
 
