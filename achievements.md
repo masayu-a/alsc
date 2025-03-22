@@ -42,7 +42,7 @@
     「Universal Dependencies 日本語コーパス」[【URL】](https://www.anlp.jp/anniversary/30th_anniversary_paper_award.html)
 
 - **Outstanding Senior Area Chairs**, The 2024 Conference on Empirical Methods in Natural Language Processing, Association for Computational Linguistics (2024.11)  
-  - Masayuki Asahara
+  - Masayuki Asahara [【X】](https://x.com/emnlpmeeting/status/1857169229172326769)
 
 - **Best Paper Award**, *Proceedings of the 28th Conference on Computational Natural Language Learning* (2024.12)  
   - Kohei Kajikawa, Yusuke Kubota, Yohei Oseki  
