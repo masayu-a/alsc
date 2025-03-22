@@ -39,7 +39,7 @@
 ### Awards
 - **言語処理学会30周年記念論文賞**, 言語処理学会 (2024.10)  
   - 浅原 正幸・金山 博・宮尾 祐介・田中 貴秋・大村 舞・村脇 有吾・松本 裕治  
-    「Universal Dependencies 日本語コーパス」
+    「Universal Dependencies 日本語コーパス」[【URL】](https://www.anlp.jp/anniversary/30th_anniversary_paper_award.html)
 
 - **Outstanding Senior Area Chairs**, The 2024 Conference on Empirical Methods in Natural Language Processing, Association for Computational Linguistics (2024.11)  
   - Masayuki Asahara
@@ -49,11 +49,11 @@
     "Is Structure Dependence Shaped for Efficient Communication?: A Case Study on Coordination"  
     [【URL】](https://aclanthology.org/2024.conll-1.23/)
 
-- **第31回言語処理学会年次大会優秀賞**, 言語処理学会 (2025.3)  
+- **第31回言語処理学会年次大会優秀賞**, 言語処理学会 [【URL】](https://www.anlp.jp/nlp2025/award.html#outstanding) (2025.3)  
   - 内海 慶・持橋 大地  
     「ベイズ教師なし文境界認識」
 
-- **第31回言語処理学会年次大会委員特別賞**, 言語処理学会 (2025.3)  
+- **第31回言語処理学会年次大会委員特別賞**, 言語処理学会 [【URL】](https://www.anlp.jp/nlp2025/award.html#committee) (2025.3)  
   - 永田 亮・持橋 大地・井戸 美里・窪田 悠介・高村 大也・川崎 義史・大谷 直輝  
     「対象言語・対象単語を選ばない汎用的な文法化度の定量化手法」
   - 近藤 泰弘・持橋 大地  
@@ -65,7 +65,7 @@
   - 浅原 正幸  
     「whole-NWJC: 『国語研日本語ウェブコーパス』全データ」
 
-- **第31回言語処理学会年次大会若手奨励賞**, 言語処理学会 (2025.3)  
+- **第31回言語処理学会年次大会若手奨励賞**, 言語処理学会 [【URL】](https://www.anlp.jp/nlp2025/award.html#encouragement) (2025.3)  
   - 梶川 康平  
     「認知負荷の最適化戦略としての自由語順と項省略」
 
