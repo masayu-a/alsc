@@ -20,16 +20,19 @@
   [【URL】](https://www.tkd-pbl.com/book/b10095150.html)
 
 ### Papers
-- 大村舞・若狭絢・松田寛・浅原正幸 (2025),「日本語日常会話コーパスの Universal Dependencies: UD_Japanese-CEJC」,　『自然言語処理』, 32巻1号, pp.55-90.[【DOI】](https://doi.org/10.5715/jnlp.32.55) | 
-[【BIB】](https://www.jstage.jst.go.jp/AF06S010ShoshJkuDld?sryCd=jnlp&noVol=32&noIssue=1&kijiCd=32_55&kijiLangKrke=ja&kijiToolIdHkwtsh=AT0073&request_locale=JA)
+- 大村舞・若狭絢・松田寛・浅原正幸 (2025),「日本語日常会話コーパスの Universal Dependencies: UD_Japanese-CEJC」,　『自然言語処理』, 32巻1号, pp.55-90.
+ [【DOI】](https://doi.org/10.5715/jnlp.32.55) |  [【BIB】](https://www.jstage.jst.go.jp/AF06S010ShoshJkuDld?sryCd=jnlp&noVol=32&noIssue=1&kijiCd=32_55&kijiLangKrke=ja&kijiToolIdHkwtsh=AT0073&request_locale=JA)
 
-- Hajime Kiyama, Taichi Aida, Mamoru Komachi, Toshinobu Ogiso, Hiroya Takamura, Daichi Mochihashi (2025), "Analyzing Continuous Semantic Shifts with Diachronic Word Similarity Matrices", Proceedings of the 31st International Conference on Computational Linguistics, pp. 1613-1631. [【URL】](https://aclanthology.org/2025.coling-main.109/)
+- Hajime Kiyama, Taichi Aida, Mamoru Komachi, Toshinobu Ogiso, Hiroya Takamura, Daichi Mochihashi (2025), "Analyzing Continuous Semantic Shifts with Diachronic Word Similarity Matrices", Proceedings of the 31st International Conference on Computational Linguistics, pp. 1613-1631.
+ [【URL】](https://aclanthology.org/2025.coling-main.109/)
 
-- Jeong Hyeonjeong, Jungho Kim, Masataka Yano, Haining Cui, Sachiko Kiayama, Masatoshi Koizumi (2025), "The crucial role of the left inferior frontal gyrus (BA44) in synergizing syntactic structure and information structure during sentence comprehension", Brain and Language, Vol.262, Article 105533. [【DOI】](https://doi.org/10.1016/j.bandl.2025.105533)
+- Jeong Hyeonjeong, Jungho Kim, Masataka Yano, Haining Cui, Sachiko Kiayama, Masatoshi Koizumi (2025), "The crucial role of the left inferior frontal gyrus (BA44) in synergizing syntactic structure and information structure during sentence comprehension", Brain and Language, Vol.262, Article 105533.
+ [【DOI】](https://doi.org/10.1016/j.bandl.2025.105533)
 
 - Sachi Kato, Masayuki Asahara (2024), "Assigning Impression Rating Information to the 'Balanced Corpus of Contemporary Written Japanese'", Proceedings of PACLIC 38.
 
-- Risa Murakami, Masataka Yano (2024), "The role of prosodic phrasing in silent reading", Glossa Psycholinguistics, Vol.3 No.1, pp. 1-15. [【DOI】](https://doi.org/10.5070/G601135279)
+- Risa Murakami, Masataka Yano (2024), "The role of prosodic phrasing in silent reading", Glossa Psycholinguistics, Vol.3 No.1, pp. 1-15.
+   [【DOI】](https://doi.org/10.5070/G601135279)
 
 - Kohei Kajikawa, Yusuke Kubota, Yohei Oseki (2024), "Is Structure Dependence Shaped for Efficient Communication?: A Case Study on Coordination", Proceedings of the 28th Conference on Computational Natural Language Learning, pp. 291-302. [【URL】](https://aclanthology.org/2024.conll-1.23/)
 
