@@ -20,10 +20,10 @@
   [【URL】](https://www.tkd-pbl.com/book/b10095150.html)
 
 ### Papers
-- 大村舞・若狭絢・松田寛・浅原正幸 (2025),「日本語日常会話コーパスの Universal Dependencies: UD_Japanese-CEJC」,　『自然言語処理』, 32巻1号, pp.55-90.[【DOI】](https://doi.org/10.5715/jnlp.32.55) 
+- 大村舞・若狭絢・松田寛・浅原正幸 (2025),「日本語日常会話コーパスの Universal Dependencies: UD_Japanese-CEJC」,　『自然言語処理』, 32巻1号, pp.55-90.[【DOI】](https://doi.org/10.5715/jnlp.32.55) | 
 [【BIB】](https://www.jstage.jst.go.jp/AF06S010ShoshJkuDld?sryCd=jnlp&noVol=32&noIssue=1&kijiCd=32_55&kijiLangKrke=ja&kijiToolIdHkwtsh=AT0073&request_locale=JA)
 
-- Hajime Kiyama, Taichi Aida, Mamoru Komachi, Toshinobu Ogiso, Hiroya Takamura, Daichi Mochihashi (2025), "Analyzing Continuous Semantic Shifts with Diachronic Word Similarity Matrices", Proceedings of the 31st International Conference on Computational Linguistics, pp. 1613-1631. 
+- Hajime Kiyama, Taichi Aida, Mamoru Komachi, Toshinobu Ogiso, Hiroya Takamura, Daichi Mochihashi (2025), "Analyzing Continuous Semantic Shifts with Diachronic Word Similarity Matrices", Proceedings of the 31st International Conference on Computational Linguistics, pp. 1613-1631. [【URL】](https://aclanthology.org/2025.coling-main.109/)
 
 - Jeong Hyeonjeong, Jungho Kim, Masataka Yano, Haining Cui, Sachiko Kiayama, Masatoshi Koizumi (2025), "The crucial role of the left inferior frontal gyrus (BA44) in synergizing syntactic structure and information structure during sentence comprehension", Brain and Language, Vol.262, Article 105533. [【DOI】](https://doi.org/10.1016/j.bandl.2025.105533)
 
@@ -31,7 +31,7 @@
 
 - Risa Murakami, Masataka Yano (2024), "The role of prosodic phrasing in silent reading", Glossa Psycholinguistics, Vol.3 No.1, pp. 1-15. [【DOI】](https://doi.org/10.5070/G601135279)
 
-- Kohei Kajikawa, Yusuke Kubota, Yohei Oseki (2024), "Is Structure Dependence Shaped for Efficient Communication?: A Case Study on Coordination", Proceedings of the 28th Conference on Computational Natural Language Learning, pp. 291-302.
+- Kohei Kajikawa, Yusuke Kubota, Yohei Oseki (2024), "Is Structure Dependence Shaped for Efficient Communication?: A Case Study on Coordination", Proceedings of the 28th Conference on Computational Natural Language Learning, pp. 291-302. [【URL】](https://aclanthology.org/2024.conll-1.23/)
 
 - Natsumi Funasaki, Masataka Yano (2024), "Role of prosody and word order in identifying focus: evidence from pupillometry", *Language, Cognition, and Neuroscience*, pp. 1-18.  
   [【DOI】](https://doi.org/10.1080/23273798.2024.2396962)
@@ -46,7 +46,7 @@
   [【URL】](https://aclanthology.org/2024.ml4al-1.6/)
 
 - 川端 良子・大村 舞・浅原 正幸・竹内 誉羽 (2024), 「Double Cross Model に基づく相対位置情報アノテーション」, 『自然言語処理』, 31巻3号, pp. 1356-1375.  
-  [【DOI】](https://doi.org/10.5715/jnlp.31.1356) | [【Bib】](https://www.jstage.jst.go.jp/AF06S010ShoshJkuDld?sryCd=jnlp&noVol=31&noIssue=3&kijiCd=31_1356&kijiLangKrke=ja&kijiToolIdHkwtsh=AT0073&request_locale=JA)
+  [【DOI】](https://doi.org/10.5715/jnlp.31.1356) | [【BIB】](https://www.jstage.jst.go.jp/AF06S010ShoshJkuDld?sryCd=jnlp&noVol=31&noIssue=3&kijiCd=31_1356&kijiLangKrke=ja&kijiToolIdHkwtsh=AT0073&request_locale=JA)
 
 - Masataka Yano, Keiyu Niikuni, Ruri Shimura, Natsumi Funasaki, Masatoshi Oizumi (2024), "Producing non-basic word orders in (in)felicitous contexts: evidence from pupillometry and functional near-infrared spectroscopy (fNIRS)", *Language, Cognition, and Neuroscience*, pp. 1-22.  
   [【DOI】](https://doi.org/10.1080/23273798.2024.2404178)
