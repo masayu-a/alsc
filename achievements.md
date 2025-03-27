@@ -9,8 +9,6 @@
 
 - Kanako Komiya, Soma Asada, Masayuki Asahara (2025), "Automatic Tagging of Word Senses for a Large-Scale Historical Japanese Corpus", *Digital Humanities Conference 2025 (DH 2025)*, (To Appear).
 
-- 浅原 正幸 (2025), 「Bayesian Linear Mixed Model に基づく漢字親密度推定の試みーー言語資源としての統計モデルの検討」, 『日本語・日本学研究』, 東京外国語大学国際日本研究センター, (To Appear).
-
 - 大村 舞・川端 良子・小西 光・浅原 正幸・竹内 誉羽  (2025), 「地図を刺激に用いた位置情報・経路情報参照表現の収集」, 『自然言語処理』, 32巻2号, (To Appear). 
 
 ## 2024年度
@@ -20,6 +18,8 @@
   [【URL】](https://www.tkd-pbl.com/book/b10095150.html)
 
 ### Papers
+- 浅原 正幸 (2025), 「Bayesian Linear Mixed Model に基づく漢字親密度推定の試みーー言語資源としての統計モデルの検討」, 『日本語・日本学研究』, 15号, pp.1-20. 東京外国語大学国際日本研究センター.
+
 - 大村舞・若狭絢・松田寛・浅原正幸 (2025),「日本語日常会話コーパスの Universal Dependencies: UD_Japanese-CEJC」,　『自然言語処理』, 32巻1号, pp.55-90.
  [【DOI】](https://doi.org/10.5715/jnlp.32.55) |  [【BIB】](https://www.jstage.jst.go.jp/AF06S010ShoshJkuDld?sryCd=jnlp&noVol=32&noIssue=1&kijiCd=32_55&kijiLangKrke=ja&kijiToolIdHkwtsh=AT0073&request_locale=JA)
 
