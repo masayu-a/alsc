@@ -55,7 +55,7 @@
   [【DOI】](https://doi.org/10.1080/23273798.2024.2404178)
 
 ### Awards
-- **言語処理学会30周年記念論文賞**, (283編中2編）, 言語処理学会 (2024.10)  
+- **言語処理学会30周年記念論文賞**, (10年間で283編中2編）, 言語処理学会 (2024.10)  
   - 浅原 正幸・金山 博・宮尾 祐介・田中 貴秋・大村 舞・村脇 有吾・松本 裕治  
     「Universal Dependencies 日本語コーパス」[【URL】](https://www.anlp.jp/anniversary/30th_anniversary_paper_award.html)
 
