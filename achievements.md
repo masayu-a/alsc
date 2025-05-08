@@ -11,6 +11,12 @@
 
 - 大村 舞・川端 良子・小西 光・浅原 正幸・竹内 誉羽  (2025), 「地図を刺激に用いた位置情報・経路情報参照表現の収集」, 『自然言語処理』, 32巻2号, (To Appear). 
 
+- Hiroaki Ozaki, Mai Omura, Kanako Komiya, Masayuki Asahara, Toshinobu Ogiso
+"Structure Modeling Approach for UD Parsing of Historical Modern Japanese", *The 1st Joint Workshop on Large Language Models and Structure Modeling (ACL2025)*
+
+### Collaborative Researches
+- 【共同利用型(B)】そり舌音などの調音に関する客観的観察 - 阿 栄娜 (早稲田大学)
+
 ## 2024年度
 
 ### Books
