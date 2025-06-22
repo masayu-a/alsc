@@ -24,9 +24,7 @@
 
 - 内容: 学生を対象にした『分類語彙表』に関するハンズオンセミナーを開催いたします。辞書検索ツール「Cradle」の新機能やコーパス検索システム「中納言」の新機能について紹介します。
 
-- 参加申込: 以下のフォームよりお申し込みください。
+- 参加申込: 締め切りました
 
 いただいた個人情報は、個人情報保護ポリシーに則り厳正に取り扱います。
-
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=WgYfnQMt70Gf98AUO1nLLPyPBnQwtVBLgF-I9E_gZi5UMVI1QlUzU1pYUTlBSUZFOTFMSlJFRzBLTi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
