@@ -16,13 +16,13 @@
 
 - 講師: 伊藤 薫先生（九州大学） 
 
-- 事前準備: 各自**Windows がインストールされたノートPC**をお持ちください。
+- 事前準備: 各自　**Windows がインストールされたノートPC**　をお持ちください。
 
 - お問い合わせ: 浅原正幸 (国立国語研究所) masayu-a[at]ninjal.ac.jp ( [at] を@に変えてください。)
 
 - キーワード: 講習会、Universal Dependencies
 
-- 内容: 『Universal Dependencies』に関するハンズオンセミナーを開催いたします。検索ツール「ChaKi.NET Lite」の機能について紹介します。また、同日午後に [Universal Dependencis 研究会](https://www2.ninjal.ac.jp/alsc/submeetings-2025a.html)を開催します。
+- 内容: 『Universal Dependencies』に関するハンズオンセミナーを開催いたします。検索ツール「[ChaKi.NET Lite](https://github.com/chakidev/chakinet-lite)」の機能について紹介します。また、同日午後に [Universal Dependencis 研究会](https://www2.ninjal.ac.jp/alsc/submeetings-2025a.html)を開催します。
 
 - 参加申込:
 
