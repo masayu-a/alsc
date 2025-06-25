@@ -22,7 +22,7 @@
 
 - キーワード: 講習会、Universal Dependencies
 
-- 内容: 『Universal Dependencies』に関するハンズオンセミナーを開催いたします。検索ツール「ChaKi.NET Lite」の機能について紹介します。また、同日午後に Universal Dependencis 研究会を開催します。
+- 内容: 『Universal Dependencies』に関するハンズオンセミナーを開催いたします。検索ツール「ChaKi.NET Lite」の機能について紹介します。また、同日午後に [Universal Dependencis 研究会](https:/を開催します。
 
 - 参加申込:
 
