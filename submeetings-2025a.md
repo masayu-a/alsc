@@ -1,7 +1,5 @@
 ## Universal Dependencies 研究会 / Universal Dependencies Research Meeting
 
-![E3P EVENT 20250303](img/e3p-event-20250303.jpg)
-
 ### 2025年度: Universal Dependencies 研究会
 
 - 日時： 2025年9月20日 (土) 13:30-16:30
@@ -18,3 +16,5 @@
   - 15:50-16:30 「指示応答プロンプトによる依存構造解析タスクのファインチューニング」Megagon Labs 松田寛
 
 - 参加申込：
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=WgYfnQMt70Gf98AUO1nLLPyPBnQwtVBLgF-I9E_gZi5UMFMySldPQjgzNVI4RFNJVERZSU1NTEdMSS4u
