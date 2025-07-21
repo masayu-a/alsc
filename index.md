@@ -13,7 +13,7 @@
 - [保有機材など](environments.html)
 
 ### お知らせ (News)
-- 2025/07/22 2025年第4回ハンズオンセミナー（『Universal Dependencies』 に関するハンズオンセミナー) を 2025/09/20 午前に実施します。  [セミナーウェブページ](seminars-2024d.html)
+- 2025/07/22 2025年第4回ハンズオンセミナー（『Universal Dependencies』 に関するハンズオンセミナー) を 2025/09/20 午前に実施します。  [セミナーウェブページ](seminars-2025d.html)
 - 2025/07/22 『Universal Dependencies』 研究会を 2025/09/20 午後に実施します。 [研究会ウェブページ](submeetings-2025a.html)
 - 2025/06/20 次世代言語科学研究センターの公募（准教授・テニュアトラック助教・特任助教）への応募を検討している方は、  
   [言語資源活用ワークショップ2025](https://clrd.ninjal.ac.jp/lrw2025.html)、[ELW2025](https://www.ninjal.ac.jp/events_jp/20250915a/)等で積極的に研究発表を行ってください。
