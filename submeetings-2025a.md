@@ -1,6 +1,6 @@
-## Universal Dependencies 研究会 / Universal Dependencies Research Meeting
+## 『Universal Dependencies』 研究会 / Universal Dependencies Research Meeting
 
-### 2025年度: Universal Dependencies 研究会
+### 2025年度: 『Universal Dependencies』 研究会
 
 - 日時： 2025年9月20日 (土) 13:30-16:30
 
