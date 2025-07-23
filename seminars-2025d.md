@@ -26,7 +26,7 @@
 
 - 内容: 『Universal Dependencies』に関するハンズオンセミナーを開催いたします。検索ツール「[ChaKi.NET Lite](https://github.com/chakidev/chakinet-lite)」の機能について紹介します。また、同日午後に [Universal Dependencis 研究会](https://www2.ninjal.ac.jp/alsc/submeetings-2025a.html)を開催します。
 
-- 参加申込:
+- 参加申込 （[午後の研究会](https://www2.ninjal.ac.jp/alsc/submeetings-2025a.html)とは別に申込が必要です）:
 
 <iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=WgYfnQMt70Gf98AUO1nLLPyPBnQwtVBLgF-I9E_gZi5UMTJTNEdRQ0VLVkxPOUtNNUI1OUMxSE82Ri4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
