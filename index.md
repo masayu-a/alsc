@@ -1,3 +1,5 @@
+![Logo](img/24_alsc-logo-E3P-ninjallogo-ja.png)
+
 ## 次世代言語科学研究センター(Advanced Language Science (E3P) Research Center) 
 
 - [センターについて](about_ja.html) / [About the Center](about_en.html)
