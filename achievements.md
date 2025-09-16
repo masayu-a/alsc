@@ -4,6 +4,18 @@
 
 ### Papers
 
+- Hiroshi Matsuda, Chunpeng Ma, Masayuki Asahara (2025),
+Step-by-step Instructions and a Simple Tabular Output Format Improve the Dependency Parsing Accuracy of LLMs,
+Proceedings of the 18th International Conference on Parsing Technologies (IWPT, SyntaxFest 2025)
+
+- Masaki Sakata, Sho Yokoi, Benjamin Heinzerling, Takumi Ito, Kentaro Inui (2025),
+  On Entity Identification in Language Models,
+Findings of the Association for Computational Linguistics: (ACL 2025)
+
+- Ryo Kishino, Hiroaki Yamagiwa, Ryo Nagata, Sho Yokoi, Hidetoshi Shimodaira (2025),
+  Quantifying Lexical Semantic Shift via Unbalanced Optimal Transport,
+  Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)
+
 - Hiroyuki Deguchi, Go Kamoda, Yusuke Matsushita, Chihiro Taguchi, Kohei Suenaga, Masaki Waga, Sho Yokoi (2025),  
   "A Soft and Fast Pattern Matcher for Billion-Scale Corpus Search",  
   The Thirteenth International Conference on Learning Representations (ICLR 2025).
