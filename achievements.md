@@ -8,30 +8,6 @@
 Step-by-step Instructions and a Simple Tabular Output Format Improve the Dependency Parsing Accuracy of LLMs,
 Proceedings of the 18th International Conference on Parsing Technologies (IWPT, SyntaxFest 2025)
 
-- Masaki Sakata, Sho Yokoi, Benjamin Heinzerling, Takumi Ito, Kentaro Inui (2025),
-  On Entity Identification in Language Models,
-Findings of the Association for Computational Linguistics: (ACL 2025)
-
-- Ryo Kishino, Hiroaki Yamagiwa, Ryo Nagata, Sho Yokoi, Hidetoshi Shimodaira (2025),
-  Quantifying Lexical Semantic Shift via Unbalanced Optimal Transport,
-  Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)
-
-- Hiroyuki Deguchi, Go Kamoda, Yusuke Matsushita, Chihiro Taguchi, Kohei Suenaga, Masaki Waga, Sho Yokoi (2025),  
-  "A Soft and Fast Pattern Matcher for Billion-Scale Corpus Search",  
-  The Thirteenth International Conference on Learning Representations (ICLR 2025).
-
-- Makoto Shing, Kou Misaki, Han Bao, Sho Yokoi, Takuya Akiba (2025),  
-  "TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models",  
-  The Thirteenth International Conference on Learning Representations (ICLR 2025).
-
-- Kanako Komiya, Soma Asada, Masayuki Asahara (2025),  
-  "Automatic Tagging of Word Senses for a Large-Scale Historical Japanese Corpus",  
-  Digital Humanities Conference 2025 (DH 2025).
-
-- 大村 舞・川端 良子・小西 光・浅原 正幸・竹内 誉羽 (2025),  
-  「地図を刺激に用いた位置情報・経路情報参照表現の収集」,  
-  『自然言語処理』, 第32巻第2号.
-
 - Ryo Yoshida, Shinnosuke Isono, Kohei Kajikawa, Taiga Someya, Yushi Sugimoto, Yohei Oseki (2025),  
   "If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?",  
   Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025).
@@ -48,9 +24,21 @@ Findings of the Association for Computational Linguistics: (ACL 2025)
   "Structure Modeling Approach for UD Parsing of Historical Modern Japanese",  
   The 1st Joint Workshop on Large Language Models and Structure Modeling (ACL 2025).
 
-- Hiroshi Matsuda, Chunpeng Ma, Masayuki Asahara (2025),  
-  "Step-by-step Instructions and a Simple Tabular Output Format Improve the Dependency Parsing Accuracy of LLMs",  
-  Universal Dependencies Workshop 2025 (UDW 2025).
+- Hiroyuki Deguchi, Go Kamoda, Yusuke Matsushita, Chihiro Taguchi, Kohei Suenaga, Masaki Waga, Sho Yokoi (2025),  
+  "A Soft and Fast Pattern Matcher for Billion-Scale Corpus Search",  
+  The Thirteenth International Conference on Learning Representations (ICLR 2025).
+
+- Makoto Shing, Kou Misaki, Han Bao, Sho Yokoi, Takuya Akiba (2025),  
+  "TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models",  
+  The Thirteenth International Conference on Learning Representations (ICLR 2025).
+
+- Kanako Komiya, Soma Asada, Masayuki Asahara (2025),  
+  "Automatic Tagging of Word Senses for a Large-Scale Historical Japanese Corpus",  
+  Digital Humanities Conference 2025 (DH 2025).
+
+- 大村 舞・川端 良子・小西 光・浅原 正幸・竹内 誉羽 (2025),  
+  「地図を刺激に用いた位置情報・経路情報参照表現の収集」,  
+  『自然言語処理』, 第32巻第2号.
 
 - Hiroshi Tamano, Hideitsu Hino, Daichi Mochihashi (2025),  
   "Misspecifying Non-compensatory as Compensatory IRT: Analysis of Estimated Skills and Variance",  
