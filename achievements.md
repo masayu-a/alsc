@@ -154,7 +154,7 @@ Proceedings of the 18th International Conference on Parsing Technologies (IWPT, 
 - 【企業】SB Intuitions 株式会社（～2025年3月）
 - 【企業】株式会社 ホンダ・リサーチ・インスティチュート・ジャパン（～2026年3月）
 - 【企業】NTTコミュニケーション科学基礎研究所（～2025年3月）
-
+  
 ## 2023年度以前より継続のもの
 
 ### Collaborative Researches
@@ -162,4 +162,4 @@ Proceedings of the 18th International Conference on Parsing Technologies (IWPT, 
 - 【共同利用型(C)】BCCWJ/CSJ への生理指標アノテーション付加 - 小泉 政利 (東北大学)
 - 【企業】株式会社リクルート Megagon Labs「日本語版Universal Dependenciesに基づく日本語依存構造解析モデルの研究開発」
 - 【企業】株式会社ワークスアプリケーションズ「日本語事前学習モデルchiTraの研究開発」
-- 【企業】シェルパ・アンド・カンパニー株式会社「高速な日本語形態素解析器の開発及び解析モデルの公開」
+- 【企業】シェルパ・アンド・カンパニー株式会社「高速な日本語形態素解析器の開発及び解析モデルの公開」（～2025年12月）
