@@ -12,7 +12,7 @@
 
 - プログラム：
   - 13:30-13:40 趣旨説明　国立国語研究所 浅原正幸
-  - 13:40-14:20 「Cab2UD：日本語係り受け構造からUniversal Dependenciesへの自動変換プログラム」大阪樟蔭女子大学 大村舞
+  - 13:40-14:20 「Cab2UD：日本語係り受け構造からUniversal Dependenciesへの自動変換プログラム」大阪樟蔭女子大学 大村舞 [[pdf]](https://researchmap.jp/multidatabases/multidatabase_contents/detail/260559/1c9fc55b26fbf179e09071f707e4783f?frame_id=664555)
   - 14:20-15:00 「日本語係り受け・依存構造の基礎としての文節・長単位解析」東京農工大学 尾崎太亮
   - 15:10-15:50 「大規模言語モデルによる多言語依存構造解析」株式会社リクルート Megagon Labs 松田寛
   - 15:50-16:30 「ChaKi.NET lite開発のねらい」九州大学 伊藤薫
