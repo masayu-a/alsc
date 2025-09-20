@@ -24,7 +24,7 @@
 
 - キーワード: 講習会、Universal Dependencies
 
-- 内容: 『Universal Dependencies』に関するハンズオンセミナーを開催いたします。検索ツール「[ChaKi.NET Lite](https://github.com/chakidev/chakinet-lite)」の機能について紹介します。また、同日午後に [Universal Dependencis 研究会](https://www2.ninjal.ac.jp/alsc/submeetings-2025a.html)を開催します。
+- 内容: 『Universal Dependencies』に関するハンズオンセミナーを開催いたします。検索ツール「[ChaKi.NET Lite](https://github.com/chakidev/chakinet-lite)」の機能について紹介します。また、同日午後に [Universal Dependencis 研究会](https://www2.ninjal.ac.jp/alsc/submeetings-2025a.html)を開催します。[[pdf]](https://researchmap.jp/multidatabases/multidatabase_contents/detail/273998/935936c0a7ae8a1be6c18650eb358dda?frame_id=736363)
 
 - 遠方から参加される学生さんには旅費の支援の枠を準備しております。masayu-a -at- ninjal.ac.jp （担当：浅原）までお問い合わせください。
 
