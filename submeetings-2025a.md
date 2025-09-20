@@ -19,5 +19,4 @@
 
 
 - 参加申込　（[午前中のセミナー](https://www2.ninjal.ac.jp/alsc/seminars-2025d.html)と別に申し込みが必要です）：
-
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=WgYfnQMt70Gf98AUO1nLLPyPBnQwtVBLgF-I9E_gZi5UMFMySldPQjgzNVI4RFNJVERZSU1NTEdMSS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+（締め切りました）
