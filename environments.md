@@ -9,15 +9,16 @@
 ## 実験機器 （他の研究者との共用になります）
 
 ### EMA　（調音運動計測用磁気センサシステム）
--NDI　Wave Speech Research System (基本的に国立国語研究所内の利用になります)
+
+- NDI　Wave Speech Research System (基本的に国立国語研究所内の利用になります)
 
 ### 超音波画像診断装置
 
--LOGIQ  e Premium Pro R8 (基本的に国立国語研究所内の利用になります)
+- LOGIQ  e Premium Pro R8 (基本的に国立国語研究所内の利用になります)
 
 ### EGG (声帯振動計測装置)
 
--EG2-PCX2 Electroglottograph System (貸与できます)
+- EG2-PCX2 Electroglottograph System (貸与できます)
 
 ### 脳波計
 
