@@ -14,6 +14,8 @@
 
 - [保有機材など](environments.html)
 
+- [実験協力者募集](participant-recruitment.html)
+
 ### お知らせ (News)
 - (2025/07/22) 2025年第4回ハンズオンセミナー（『Universal Dependencies』 に関するハンズオンセミナー) を 2025/09/20 午前に実施します。  [セミナーウェブページ](seminars-2025d.html)
 - (2025/07/22) 『Universal Dependencies』 研究会を 2025/09/20 午後に実施します。 [研究会ウェブページ](submeetings-2025a.html)
