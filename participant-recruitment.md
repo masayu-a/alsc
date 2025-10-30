@@ -44,11 +44,11 @@
 - 実験で得られたデータ（読み時間や課題成績など）は匿名化したIDで管理し、個人を特定できる情報（氏名・住所等）とは分離して厳重に保管します。
 - 研究成果は学会発表や論文等で公表し、データについても公開する可能性がありますが、個人が特定される形で公表されることはありません。
 - 疲労などを感じた場合はその場で休憩・中止が可能です。安全に配慮して実施します。
-- その他、申込時にいただいた情報は　国立国語研究所　個人情報保護ポリシーに準じて扱います：https://www.ninjal.ac.jp/utility/policy/#PRIVACYPOLICY
+- その他、申込時にいただいた情報は　国立国語研究所　個人情報保護ポリシーに準じて扱います：[https://www.ninjal.ac.jp/utility/policy/#PRIVACYPOLICY](https://www.ninjal.ac.jp/utility/policy/#PRIVACYPOLICY)
 
 ## 申込フォーム
 
-https://airrsv.net/ninjal-e3p/calendar   よりお申込みください。
+[https://airrsv.net/ninjal-e3p/calendar](https://airrsv.net/ninjal-e3p/calendar)   よりお申込みください。
 
 ## お問い合わせ先
 
