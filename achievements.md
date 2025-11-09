@@ -14,7 +14,6 @@
   "Step-by-step Instructions and a Simple Tabular Output Format Improve the Dependency Parsing Accuracy of LLMs",
   Proceedings of the 18th International Conference on Parsing Technologies (IWPT, SyntaxFest 2025).  [【doi】](https://aclanthology.org/2025.iwpt-1.2/)
 
-
 - Ryo Yoshida, Shinnosuke Isono, Kohei Kajikawa, Taiga Someya, Yushi Sugimoto, Yohei Oseki (2025),  
   "If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?",  
   Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025). [【doi】](https://doi.org/10.18653/v1/2025.acl-long.483)
