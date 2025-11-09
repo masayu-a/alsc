@@ -5,24 +5,25 @@
 ### Papers
 
 - Hiroshi Matsuda, Chunpeng Ma, Masayuki Asahara (2025),
-Step-by-step Instructions and a Simple Tabular Output Format Improve the Dependency Parsing Accuracy of LLMs,
-Proceedings of the 18th International Conference on Parsing Technologies (IWPT, SyntaxFest 2025)
+  "Step-by-step Instructions and a Simple Tabular Output Format Improve the Dependency Parsing Accuracy of LLMs",
+  Proceedings of the 18th International Conference on Parsing Technologies (IWPT, SyntaxFest 2025).  [【doi】](https://aclanthology.org/2025.iwpt-1.2/)
+
 
 - Ryo Yoshida, Shinnosuke Isono, Kohei Kajikawa, Taiga Someya, Yushi Sugimoto, Yohei Oseki (2025),  
   "If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?",  
-  Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025).
+  Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025). [【doi】](https://doi.org/10.18653/v1/2025.acl-long.483)
 
 - Ryo Kishino, Hiroaki Yamagiwa, Ryo Nagata, Sho Yokoi, Hidetoshi Shimodaira (2025),  
   "Quantifying Lexical Semantic Shift via Unbalanced Optimal Transport",  
-  Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025).
+  Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025). [【doi】](https://doi.org/10.18653/v1/2025.acl-long.774)
 
 - Masaki Sakata, Sho Yokoi, Benjamin Heinzerling, Takumi Ito, Kentaro Inui (2025),  
   "On Entity Identification in Language Models",  
-  Findings of the Association for Computational Linguistics: ACL 2025.
+  Findings of the Association for Computational Linguistics: ACL 2025.  [【doi】](https://doi.org/10.18653/v1/2025.findings-acl.858)
 
 - Hiroaki Ozaki, Mai Omura, Kanako Komiya, Masayuki Asahara, Toshinobu Ogiso (2025),  
   "Structure Modeling Approach for UD Parsing of Historical Modern Japanese",  
-  The 1st Joint Workshop on Large Language Models and Structure Modeling (ACL 2025).
+  The 1st Joint Workshop on Large Language Models and Structure Modeling (ACL 2025).  [【doi】](https://doi.org/10.18653/v1/2025.xllm-1.12)
 
 - Hiroyuki Deguchi, Go Kamoda, Yusuke Matsushita, Chihiro Taguchi, Kohei Suenaga, Masaki Waga, Sho Yokoi (2025),  
   "A Soft and Fast Pattern Matcher for Billion-Scale Corpus Search",  
@@ -38,7 +39,8 @@ Proceedings of the 18th International Conference on Parsing Technologies (IWPT, 
 
 - 大村 舞・川端 良子・小西 光・浅原 正幸・竹内 誉羽 (2025),  
   「地図を刺激に用いた位置情報・経路情報参照表現の収集」,  
-  『自然言語処理』, 第32巻第2号.
+  『自然言語処理』, 第32巻第2号.  [【doi】](https://doi.org/10.5715/jnlp.32.660)
+
 
 - Hiroshi Tamano, Hideitsu Hino, Daichi Mochihashi (2025),  
   "Misspecifying Non-compensatory as Compensatory IRT: Analysis of Estimated Skills and Variance",  
@@ -56,7 +58,7 @@ Proceedings of the 18th International Conference on Parsing Technologies (IWPT, 
   "Analyzing Japanese texts with evaluation of randomness in binary expression",
   Mathematical Modelling in Linguistics and Text Analysis,
   Current Issues in Linguistic Theory, vi,
-  81-89, [doi](https://doi.org/10.1075/cilt.370.07tak)
+  81-89, [【doi】](https://doi.org/10.1075/cilt.370.07tak)
 
 - Soma Asada, Kanako Komiya, Masayuki Asahara,
   "Large-Scale Word Sense Tagging in Contemporary Japanese: An All-Words Word Sense Disambiguation Approach for 180 Million Words",
@@ -90,7 +92,7 @@ Proceedings of the 18th International Conference on Parsing Technologies (IWPT, 
   [【URL】](https://www.tkd-pbl.com/book/b10095150.html)
 
 ### Papers
-- 浅原 正幸 (2025), 「Bayesian Linear Mixed Model に基づく漢字親密度推定の試みーー言語資源としての統計モデルの検討」, 『日本語・日本学研究』, 15号, pp.1-20. 東京外国語大学国際日本研究センター.
+- 浅原 正幸 (2025), 「Bayesian Linear Mixed Model に基づく漢字親密度推定の試みーー言語資源としての統計モデルの検討」, 『日本語・日本学研究』, 15号, pp.1-20. 東京外国語大学国際日本研究センター.　[【doi】](https://doi.org/10.15026/0002001137)
 
 - 大村舞・若狭絢・松田寛・浅原正幸 (2025),「日本語日常会話コーパスの Universal Dependencies: UD_Japanese-CEJC」,　『自然言語処理』, 32巻1号, pp.55-90.
  [【DOI】](https://doi.org/10.5715/jnlp.32.55) |  [【BIB】](https://www.jstage.jst.go.jp/AF06S010ShoshJkuDld?sryCd=jnlp&noVol=32&noIssue=1&kijiCd=32_55&kijiLangKrke=ja&kijiToolIdHkwtsh=AT0073&request_locale=JA)
