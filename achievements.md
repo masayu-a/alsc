@@ -4,6 +4,14 @@
 
 ### Books
 
+- ケヴィン P. マーフィー(著)／持橋 大地・鈴木 大慈(監訳) (2025)
+  確率的機械学習：入門編 I ―基礎と線形モデル― [【URL】](https://www.asakura.co.jp/detail.php?book_code=12303)
+  > 訳者 石黒勝彦／伊藤伸志／梶野洸／黒木祐子／小宮山純平／佐藤竜馬／鈴木大慈／包含／手嶋毅志／幡谷龍一郎／二見太／南賢太郎／持橋大地／横井祥
+
+- ケヴィン P. マーフィー(著)／持橋 大地・鈴木 大慈(監訳) (2025)
+  確率的機械学習：入門編 II ―非線形モデル― [【URL】](https://www.asakura.co.jp/detail.php?book_code=12304)
+  > 訳者 石黒勝彦／伊藤伸志／梶野洸／黒木祐子／小宮山純平／佐藤竜馬／鈴木大慈／包含／手嶋毅志／幡谷龍一郎／二見太／南賢太郎／持橋大地／横井祥
+  
 - Yusuke Kubota, Robert Levine (2026),  
   Type-Logical Grammar: A Syntactic Introduction,  
   Cambridge University Press.
