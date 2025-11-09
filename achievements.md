@@ -52,6 +52,20 @@ Proceedings of the 18th International Conference on Parsing Technologies (IWPT, 
   "On Recent Debates on the Tense Alternation Generalization: A Reply to Fujii et al. (2023)",  
   Gengo Kenkyu.
 
+- Yosuke Takubo, Masayuki Asahara, Makoto Yamazaki (2025),
+  "Analyzing Japanese texts with evaluation of randomness in binary expression",
+  Mathematical Modelling in Linguistics and Text Analysis,
+  Current Issues in Linguistic Theory, vi,
+  81-89, [doi](https://doi.org/10.1075/cilt.370.07tak)
+
+- Soma Asada, Kanako Komiya, Masayuki Asahara,
+  "Large-Scale Word Sense Tagging in Contemporary Japanese: An All-Words Word Sense Disambiguation Approach for 180 Million Words",
+  Transactions on Asian and Low-Resource Language Information Processing
+
+- Hang Zhu, Rowan Hall Maudslay, Kanako Komiya, Sachi Kato and Masayuki Asahara (2025),
+  "Large-Scale Japanese Metaphor Corpus Construction: Expanding BCCWJ-Metaphor with Automated Annotation",
+  Proceedings of PACLIC39: The 39th Pacific Asia Conference on Language, Information and Computation
+
 - Yusuke Kubota, Robert Levine (2026),  
   Type-Logical Grammar: A Syntactic Introduction,  
   Cambridge University Press.
