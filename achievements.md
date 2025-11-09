@@ -2,6 +2,12 @@
 
 ## 2025年度
 
+### Books
+
+- Yusuke Kubota, Robert Levine (2026),  
+  Type-Logical Grammar: A Syntactic Introduction,  
+  Cambridge University Press.
+
 ### Papers
 
 - Hiroshi Matsuda, Chunpeng Ma, Masayuki Asahara (2025),
@@ -67,10 +73,6 @@
 - Hang Zhu, Rowan Hall Maudslay, Kanako Komiya, Sachi Kato and Masayuki Asahara (2025),
   "Large-Scale Japanese Metaphor Corpus Construction: Expanding BCCWJ-Metaphor with Automated Annotation",
   Proceedings of PACLIC39: The 39th Pacific Asia Conference on Language, Information and Computation
-
-- Yusuke Kubota, Robert Levine (2026),  
-  Type-Logical Grammar: A Syntactic Introduction,  
-  Cambridge University Press.
 
 ### Awards
 - **日本音声学会賞：学術研究奨励賞**
