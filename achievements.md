@@ -81,6 +81,10 @@
   "Large-Scale Japanese Metaphor Corpus Construction: Expanding BCCWJ-Metaphor with Automated Annotation",
   Proceedings of PACLIC39: The 39th Pacific Asia Conference on Language, Information and Computation
 
+- Kanako Komiya, Taichiro Kobayashi, Masayuki Asahara, Hiroyuki Shinnou (2025),
+  "All-words pronunciation estimation of Japanese homographs",
+  Data & Knowledge Engineering  [【doi】](https://doi.org/10.1016/j.datak.2025.102537)
+  
 ### Awards
 - **日本音声学会賞：学術研究奨励賞**
   - 能田由紀子（国立国語研究所 次世代言語科学研究センター・研究員）, 前川喜久雄（国立国語研究所）, 浅原正幸（国立国語研究所）, 竹本浩典（千葉工業大学）, 北村達也（甲南大学）, 孫静（神戸大学）, 溝口愛（前橋工科大学）, 浅井拓也（早稲田大学）, 「音声生成過程の計測・解析手法に関するハンズオンセミナーの開催」 [[url]](https://www.psj.gr.jp/jpn/psj_awards) 
